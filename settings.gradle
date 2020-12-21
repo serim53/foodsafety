@@ -1,0 +1,3 @@
+include ':cookiebar2'
+include ':navigationtabbar'
+include ':app'
